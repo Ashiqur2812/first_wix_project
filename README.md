@@ -129,8 +129,7 @@ Web Developer & Wix Specialist
 ---
 
 ## 📞 Connect & Explore  
-
-- 🌐 **Live Website:** [Visit Site](https://ashiqur2812.wixstudio.com/my-site-2)  
+  
 - 💼 **Portfolio:** [https://ashiqurrahman.vercel.app](https://ashiqurrahman.vercel.app)  
 - 📧 **Email:** ashiqur2812@gmail.com  
 - 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/2812ashiqur)  
