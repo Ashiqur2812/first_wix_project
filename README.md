@@ -7,8 +7,6 @@ This project showcases advanced web design techniques, responsive layouts, and i
 
 ---
 
-This is Ashiqur Rahman
-
 ## 🌐 Live Demo  
 ➡️ **[Visit the Live Website](https://ashiqur2812.wixstudio.com/my-site-2)**  
 
