@@ -1,5 +1,3 @@
-# 🏗️ Modern Construction & Architecture Company Website  
-
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Wix_Studio-blue)
 ![Design](https://img.shields.io/badge/Design-Responsive-orange)
@@ -122,8 +120,8 @@ This website demonstrates real-world web design skills for:
 
 ## 👨‍💻 About the Developer  
 
-**Ashiqur Rahman**  
-Web Designer & Wix Specialist  
+**Muhammad Ashiqur Rahman**  
+Web Developer & Wix Specialist  
 
 > “This project showcases my ability to create professional, business-ready websites using Wix Studio.  
 > The focus was on combining aesthetic appeal with functional design to create a compelling online presence for construction industry clients.”
